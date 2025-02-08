@@ -53,6 +53,6 @@
 ### 📫 Contact Me  
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwaratna.py@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwaratna1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwaratna/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=codeforces&logoColor=white)](https://portfolio-vishwaratna.vercel.app/)
     
